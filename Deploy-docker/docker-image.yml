@@ -1,0 +1,8 @@
+---
+- name: Pull Docker image of Calculator
+  hosts: all
+  tasks:
+  - name: Pull Cal image
+    docker_image:
+      name: kimchi1503/calculator
+      source: pull
