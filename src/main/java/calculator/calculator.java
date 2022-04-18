@@ -19,7 +19,7 @@ public class calculator {
         double x1, x2;
 
         do{
-            System.out.println("Calculator Program...");
+            System.out.println("Calculator Program....");
             System.out.println("Available Operations to Perform\n1 - Square Root of input_var\n2 - Factorial of input_var\n3 - Natural Log of input_var\n4 - input_var Power base\nPress Any Other key to Exit");
             int input_var;
 
