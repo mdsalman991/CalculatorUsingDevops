@@ -158,3 +158,259 @@
 2022-04-15 18:18:04.695 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
 2022-04-15 18:18:04.696 [main] INFO  calculator.calculator - [SQRT] - 1.0
 2022-04-15 18:18:04.696 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-16 14:49:24.114 [main] INFO  calculator.calculator - [FACTORIAL] - 6.0
+2022-04-16 14:49:24.117 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 720.0
+2022-04-16 14:49:24.117 [main] INFO  calculator.calculator - [FACTORIAL] - 3.0
+2022-04-16 14:49:24.117 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 6.0
+2022-04-16 14:49:24.118 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-16 14:49:24.118 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-16 14:49:24.118 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-16 14:49:24.119 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-16 14:49:24.119 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-16 14:49:24.119 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-16 14:49:24.119 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-16 14:49:24.119 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-16 14:49:24.121 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-16 14:49:24.122 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-16 14:49:24.122 [main] INFO  calculator.calculator - [FACTORIAL] - 4.0
+2022-04-16 14:49:24.122 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 24.0
+2022-04-16 14:49:24.123 [main] INFO  calculator.calculator - [POWER] - 2.0, 2.0
+2022-04-16 14:49:24.124 [main] INFO  calculator.calculator - [RESULT - POWER] = 4.0
+2022-04-16 14:49:24.128 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-16 14:49:24.130 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-16 14:49:24.132 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-16 14:49:24.133 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-16 14:49:24.134 [main] INFO  calculator.calculator - [POWER] - 4.0, 3.0
+2022-04-16 14:49:24.135 [main] INFO  calculator.calculator - [RESULT - POWER] = 64.0
+2022-04-16 14:49:24.135 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-16 14:49:24.135 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-16 14:49:24.136 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-16 14:49:24.136 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-16 14:49:24.137 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-16 14:49:24.138 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-16 14:49:24.139 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-16 14:49:24.141 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-17 13:49:59.973 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-17 13:49:59.975 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-17 13:49:59.976 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-17 13:49:59.976 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-17 13:49:59.977 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-17 13:49:59.977 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-17 13:49:59.978 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-17 13:49:59.978 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-17 13:49:59.978 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-17 13:49:59.979 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-17 13:49:59.979 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-17 13:49:59.979 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-17 13:49:59.986 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-17 13:49:59.986 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-17 13:49:59.986 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-17 13:49:59.986 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-17 13:49:59.987 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-17 13:49:59.988 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-17 13:49:59.988 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-17 13:49:59.988 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-17 13:49:59.989 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-17 13:49:59.989 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-17 13:49:59.989 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-17 13:49:59.990 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-17 13:49:59.990 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-17 13:49:59.990 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-17 13:49:59.991 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-17 13:49:59.991 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-17 13:49:59.991 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-17 13:49:59.993 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-17 13:49:59.993 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-17 13:49:59.993 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-17 13:53:37.804 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-17 13:53:37.806 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-17 13:53:37.806 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-17 13:53:37.807 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-17 13:53:37.807 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-17 13:53:37.807 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-17 13:53:37.807 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-17 13:53:37.808 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-17 13:53:37.808 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-17 13:53:37.808 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-17 13:53:37.808 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-17 13:53:37.808 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-17 13:53:37.815 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-17 13:53:37.815 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-17 13:53:37.815 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-17 13:53:37.815 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-17 13:53:37.816 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-17 13:53:37.816 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-17 13:53:37.816 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-17 13:53:37.816 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-17 13:53:37.817 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-17 13:53:37.817 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-17 13:53:37.817 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-17 13:53:37.817 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-17 13:53:37.817 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-17 13:53:37.817 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-17 13:53:37.818 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-17 13:53:37.818 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-17 13:53:37.818 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-17 13:53:37.818 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-17 13:53:37.818 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-17 13:53:37.818 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-18 13:27:52.302 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-18 13:27:52.305 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-18 13:27:52.305 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-18 13:27:52.305 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-18 13:27:52.306 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-18 13:27:52.306 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-18 13:27:52.306 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:27:52.306 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:27:52.307 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-18 13:27:52.307 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-18 13:27:52.307 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-18 13:27:52.307 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-18 13:27:52.315 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-18 13:27:52.316 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-18 13:27:52.316 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-18 13:27:52.316 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-18 13:27:52.316 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-18 13:27:52.316 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-18 13:27:52.317 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:27:52.317 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:27:52.317 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-18 13:27:52.318 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-18 13:27:52.318 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:27:52.318 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:27:52.318 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-18 13:27:52.319 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-18 13:27:52.319 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-18 13:27:52.319 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-18 13:27:52.319 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:27:52.319 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:27:52.319 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-18 13:27:52.320 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-18 13:28:48.298 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-18 13:28:48.301 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-18 13:28:48.302 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-18 13:28:48.302 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-18 13:28:48.303 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-18 13:28:48.303 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-18 13:28:48.303 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:28:48.303 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:28:48.304 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-18 13:28:48.304 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-18 13:28:48.304 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-18 13:28:48.304 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-18 13:28:48.312 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-18 13:28:48.313 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-18 13:28:48.313 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-18 13:28:48.313 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-18 13:28:48.313 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-18 13:28:48.313 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-18 13:28:48.313 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:28:48.314 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:28:48.314 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-18 13:28:48.314 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-18 13:28:48.314 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:28:48.314 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:28:48.315 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-18 13:28:48.315 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-18 13:28:48.315 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-18 13:28:48.315 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-18 13:28:48.316 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:28:48.316 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:28:48.316 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-18 13:28:48.317 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-18 13:29:11.814 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-18 13:29:11.818 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-18 13:29:11.818 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-18 13:29:11.818 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-18 13:29:11.819 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-18 13:29:11.819 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-18 13:29:11.820 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:29:11.820 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:29:11.822 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-18 13:29:11.822 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-18 13:29:11.823 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-18 13:29:11.823 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-18 13:29:11.823 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-18 13:29:11.823 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-18 13:29:11.824 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-18 13:29:11.824 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-18 13:29:11.825 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-18 13:29:11.825 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-18 13:29:11.825 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:29:11.826 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:29:11.826 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-18 13:29:11.826 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-18 13:29:11.826 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:29:11.827 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:29:11.827 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-18 13:29:11.827 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-18 13:29:11.827 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-18 13:29:11.827 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-18 13:29:11.828 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:29:11.828 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:29:11.828 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-18 13:29:11.828 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-18 13:29:42.663 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-18 13:29:42.666 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-18 13:29:42.667 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-18 13:29:42.667 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-18 13:29:42.668 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-18 13:29:42.669 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-18 13:29:42.669 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:29:42.670 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:29:42.671 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-18 13:29:42.672 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-18 13:29:42.672 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-18 13:29:42.672 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-18 13:29:42.673 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-18 13:29:42.673 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-18 13:29:42.674 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-18 13:29:42.674 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-18 13:29:42.675 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-18 13:29:42.676 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-18 13:29:42.677 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:29:42.677 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:29:42.678 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-18 13:29:42.679 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-18 13:29:42.680 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 13:29:42.680 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 13:29:42.681 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-18 13:29:42.682 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-18 13:29:42.682 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-18 13:29:42.682 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-18 13:29:42.683 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 13:29:42.683 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 13:29:42.684 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-18 13:29:42.684 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0
+2022-04-18 14:55:38.535 [main] INFO  calculator.calculator - [FACTORIAL] - 8.0
+2022-04-18 14:55:38.538 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 40320.0
+2022-04-18 14:55:38.538 [main] INFO  calculator.calculator - [FACTORIAL] - 2.0
+2022-04-18 14:55:38.539 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 2.0
+2022-04-18 14:55:38.539 [main] INFO  calculator.calculator - [SQRT] - 3.0
+2022-04-18 14:55:38.540 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.7320508075688772
+2022-04-18 14:55:38.540 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 14:55:38.540 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 14:55:38.541 [main] INFO  calculator.calculator - [LOG] - 1.0
+2022-04-18 14:55:38.541 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.0
+2022-04-18 14:55:38.541 [main] INFO  calculator.calculator - [LOG] - 10.0
+2022-04-18 14:55:38.542 [main] INFO  calculator.calculator - [RESULT - LOG] = 2.302585092994046
+2022-04-18 14:55:38.543 [main] INFO  calculator.calculator - [FACTORIAL] - 7.0
+2022-04-18 14:55:38.543 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 5040.0
+2022-04-18 14:55:38.543 [main] INFO  calculator.calculator - [FACTORIAL] - 5.0
+2022-04-18 14:55:38.543 [main] INFO  calculator.calculator - [RESULT - FACTORIAL] = 120.0
+2022-04-18 14:55:38.544 [main] INFO  calculator.calculator - [POWER] - 4.0, 2.0
+2022-04-18 14:55:38.545 [main] INFO  calculator.calculator - [RESULT - POWER] = 16.0
+2022-04-18 14:55:38.545 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 14:55:38.545 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 14:55:38.546 [main] INFO  calculator.calculator - [POWER] - 3.0, 3.0
+2022-04-18 14:55:38.546 [main] INFO  calculator.calculator - [RESULT - POWER] = 27.0
+2022-04-18 14:55:38.546 [main] INFO  calculator.calculator - [POWER] - 2.0, 3.0
+2022-04-18 14:55:38.546 [main] INFO  calculator.calculator - [RESULT - POWER] = 8.0
+2022-04-18 14:55:38.547 [main] INFO  calculator.calculator - [LOG] - 2.4
+2022-04-18 14:55:38.547 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.8754687373538999
+2022-04-18 14:55:38.547 [main] INFO  calculator.calculator - [LOG] - 2.1
+2022-04-18 14:55:38.547 [main] INFO  calculator.calculator - [RESULT - LOG] = 0.7419373447293773
+2022-04-18 14:55:38.547 [main] INFO  calculator.calculator - [SQRT] - 4.0
+2022-04-18 14:55:38.547 [main] INFO  calculator.calculator - [RESULT - SQRT] = 2.0
+2022-04-18 14:55:38.548 [main] INFO  calculator.calculator - [SQRT] - 1.0
+2022-04-18 14:55:38.548 [main] INFO  calculator.calculator - [RESULT - SQRT] = 1.0

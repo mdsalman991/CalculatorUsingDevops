@@ -16,48 +16,48 @@ public class calculator {
     public static void main(String[] args) {
         calculator cal = new calculator();
         Scanner scanner = new Scanner(System.in);
-        double num1, num2;
+        double x1, x2;
 
         do{
-            System.out.println("Calcuator");
-            System.out.println("Available functions\n1 - Square Root of x\n2 - Factorial of x\n3 - Natural Log of x\n4 - x Power b\nAny other number to exit");
-            int fun;
+            System.out.println("Calculator Program...");
+            System.out.println("Available Operations to Perform\n1 - Square Root of input_var\n2 - Factorial of input_var\n3 - Natural Log of input_var\n4 - input_var Power base\nPress Any Other key to Exit");
+            int input_var;
 
             try{
-                fun = scanner.nextInt();
+                input_var = scanner.nextInt();
             } catch (InputMismatchException error) {
                 return;
             }
 
-            if (fun < 1 || fun > 4){
+            if (input_var < 1 || input_var > 4){
                 return;
             }
 
             try{
-                System.out.println("Enter x");
-                num1 = scanner.nextDouble();
+                System.out.println("Enter input_var");
+                x1 = scanner.nextDouble();
             } catch (InputMismatchException error) {
                 return;
             }
 
-            switch(fun){
+            switch(input_var){
                 case 1:
-                    System.out.println("Square root of x = " + calculator.sqt(num1));
+                    System.out.println("Square root of input_var = " + calculator.sqt(x1));
                     break;
                 case 2:
-                    System.out.println("Factorial of x =" + calculator.factorial(num1));
+                    System.out.println("Factorial of input_var =" + calculator.factorial(x1));
                     break;
                 case 3:
-                    System.out.println("Natural log of x =" + calculator.log(num1));
+                    System.out.println("Natural log of input_var =" + calculator.log(x1));
                     break;
                 case 4:
                     try {
-                        System.out.print("Enter b");
-                        num2 = scanner.nextDouble();
+                        System.out.print("Enter base");
+                        x2 = scanner.nextDouble();
                     } catch (InputMismatchException error){
                         return;
                     }
-                    System.out.println("x power b = " + calculator.power(num1, num2));
+                    System.out.println("input_var power base = " + calculator.power(x1, x2));
                     break;
                 default:
                     System.out.print("Closing");
